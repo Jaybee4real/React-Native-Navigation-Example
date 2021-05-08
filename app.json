@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "twitter_clone",
-    "slug": "twitter_clone",
+    "name": "React Native Navigation Starter",
+    "slug": "React_Native_Navigation_Starter",
+    "description": "This Is A Test App I came up with in my free time, *username:* user1, *password:* password",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
